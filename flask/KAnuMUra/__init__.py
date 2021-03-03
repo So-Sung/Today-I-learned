@@ -5,7 +5,7 @@ def create_app(): # 애플리케이션 팩토리
 
     @app.route('/')
     def hello_flask():
-        return "Welcome to Flask!!"
+        return "Welcome to Flask!!!"
 
     return app
 # -----------------------
