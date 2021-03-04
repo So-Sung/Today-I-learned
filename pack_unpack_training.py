@@ -25,7 +25,7 @@ for data in btc_nkt_dataset:
 #-------------------------- 데이터 패킹-------------#
 data1= tuple(btc_nkt_dataset)
 print("--------------튜플로 패킹하기----------------")
-for num in data1:
+for num in range(14):
     print(data1[num])
 
 #--------------------언패킹 -------------------#
@@ -42,4 +42,5 @@ for number in range(14):
     print("시가 : ",open_vl[number],"고가 : ",high_vl[number],"저가 : ",low_vl[number],"종가 : ",close_vl[number])
 
 #-----------------------------------------------------------------------------------------------------------------#
+
 
