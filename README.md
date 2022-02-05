@@ -1,12 +1,14 @@
 # Today-I-learned
+:+1: :sparkles: :camel: 
+:rocket: :metal: :octocat:
  '''
->## 학교 공부 알고리즘 과목 A
+>## :octocat:학교 공부 알고리즘 과목 A
 > url
->## 스터디 공부  
+>## :octocat:스터디 공부  
 >url  
->## CTF 풀이  
+>## :octocat:CTF 풀이  
 >url  
->## 윈도우 포렌식 공부  
+>## :octocat:  (Web,Network)해킹,포렌식 기술 공부 
 >url 
 '''
 
