@@ -5,7 +5,7 @@
 >## :octocat:학교 공부 알고리즘 과목 A
 > url
 >## :octocat:스터디 공부  
->url  
+>url : https://github.com/So-Sung/Weekly_We_Learn/wiki
 >## :octocat:CTF 풀이  
 >url  
 >## :octocat:  (Web,Network)해킹,포렌식 기술 공부 
